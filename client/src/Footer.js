@@ -10,7 +10,7 @@ const Footer = () => {
             </Text>
             <div>
                 <a
-                    href="https://www.linkedin.com/in/user/"
+                    href="https://www.lipsum.com/"
                     target="blank"
                 >
                     <Button
@@ -21,7 +21,7 @@ const Footer = () => {
                         LinkedIn
                     </Button>
                 </a>
-                <a href="https://github.com/user" target="blank">
+                <a href="https://www.lipsum.com/" target="blank">
                     <Button
                         colorScheme="github"
                         variant="outline"
@@ -31,7 +31,7 @@ const Footer = () => {
                         GitHub
                     </Button>
                 </a>
-                <a href="https://www.facebook.com/user/" target="blank">
+                <a href="https://www.lipsum.com/" target="blank">
                     <Button
                         colorScheme="facebook"
                         style={{ marginLeft: "10px" }}
