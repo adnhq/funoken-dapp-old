@@ -1,0 +1,25 @@
+{
+  "routes": [
+    { "src": "/", "dest": "/" },
+    {
+      "src": "/marketplace",
+      "dest": "/"
+    },
+    {
+      "src": "/my-auctions",
+      "dest": "/"
+    },
+    {
+      "src": "/explore",
+      "dest": "/"
+    },
+    {
+      "src": "/view-token",
+      "dest": "/"
+    },
+    {
+      "src": "/leaderboard",
+      "dest": "/"
+    }
+  ]
+}
